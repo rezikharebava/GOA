@@ -39,17 +39,6 @@ login()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # converation
 def conversation():
     print("გამარჯობა! როგორ ხარ?")
