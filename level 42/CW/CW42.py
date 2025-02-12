@@ -1,3 +1,4 @@
+#დავალება 1
 def points(game):
     res = 0
     for score in game:
@@ -10,7 +11,7 @@ def points(game):
     return res
 
 
-
+#დავალება 2
 age = 14
 binary_age = ""
 
