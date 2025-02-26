@@ -50,7 +50,7 @@ def greet(name, owner):
     
 #დავალება 7
 def monkey_count(n):
-    return list(range(1, n + 1))
+    return (for i in range(1, n + 1))
 
 
 #დავალება 8
