@@ -5,12 +5,12 @@ body{
     display: flex;
     flex-wrap: wrap;
     width: 450px;
-    
 }
 .box {
+    gap: 10px;
     width: 50px;
-    height: 100px;
-    margin: 5px;
+    height: 80px;
+    margin: 1px;
     text-align: center;
     line-height: 50px;
     border: 1px solid black;
