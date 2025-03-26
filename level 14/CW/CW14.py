@@ -4,6 +4,7 @@ result = ""
 
 for i in name:
     result += i
+    print(i)
 print(result)
 
 
