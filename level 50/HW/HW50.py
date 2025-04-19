@@ -22,10 +22,3 @@ def longest(a1, a2):
     result = "".join(letters)
 
     return result
-
-#davlaeba 5
-#davlaeba 6
-#davlaeba 7
-#davlaeba 8
-#davlaeba 9
-#davlaeba 10
